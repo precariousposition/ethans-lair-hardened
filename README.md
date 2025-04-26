@@ -1,4 +1,7 @@
 # My Hardened + Privacy-Focused Home Environment (Apple-Based + VMs, DIY Networking, SBCs, etc)
+
+# Author: Ethan Ross
+
 Developing home environment from borrowed NBN to an digital fortress that not even the AFP can f#%k with!
 Operating Systems: MacOS, iOS, Ubuntu, Windows
 Containers/VMs: Docker, Proxmox
